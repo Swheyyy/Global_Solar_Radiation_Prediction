@@ -113,4 +113,12 @@ This project can support:
 - Research in solar radiation prediction
 
 ---
+# Output 
+Model Performance Comparison
+<img width="864" height="573" alt="image" src="https://github.com/user-attachments/assets/102c672a-b7c4-40d3-87c7-ebf14d1bc1ba" />
 
+Predicted vs Actual GHI Analysis
+<img width="939" height="333" alt="image" src="https://github.com/user-attachments/assets/97c3d276-1b73-4cf3-9b47-bfe20cdd69dc" />
+
+Sample Prediction Results
+<img width="821" height="244" alt="image" src="https://github.com/user-attachments/assets/0c6a391e-08bd-4541-a456-5cddd9ba5949" />
